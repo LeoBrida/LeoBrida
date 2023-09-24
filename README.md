@@ -1,7 +1,4 @@
-## Hello friend! Eu sou o Leonardo De Brida
-
-- (⌐■_■) Graduando em Sistemas de Informação
-- ( ͡~ ͜ʖ ͡°) Atualmente aprendendo Python
+## Hello friend!
 
 <div>
   <a href="https://github.com/LeoBrida">
